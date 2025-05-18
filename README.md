@@ -1,0 +1,2 @@
+# samsreminiscencetextures
+resource pack
