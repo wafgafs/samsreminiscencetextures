@@ -25,7 +25,7 @@
   "block.yungscavebiomes.icicle": "Icicle",
   "block.yungscavebiomes.frost_lily": "Frost Lily",
   "block.yungscavebiomes.marble": "Marble",
-  "block.yungscavebiomes.travertine": "Travertine",
+  "block.yungscavebiomes.travertine": "Hardened Alabaster",
   "block.yungscavebiomes.rare_ice": "Enchanted Ice",
   "block.yungscavebiomes.ice_sheet": "Creeping Ice",
   "block.yungscavebiomes.ancient_sand": "Ancient Sand",
@@ -49,11 +49,11 @@
   "block.yungscavebiomes.prickly_peach_cactus": "Prickly Peach Cactus",
   "block.yungscavebiomes.prickly_vines": "Prickly Vines",
 
-  "entity.yungscavebiomes.ice_cube": "Ice Cube",
+  "entity.yungscavebiomes.ice_cube": "Frost Cube",
   "entity.yungscavebiomes.sand_snapper": "Sand Snapper",
-  "entity.yungscavebiomes.icicle": "Icicle",
+  "entity.yungscavebiomes.icicle": "Enchanted Icicle",
 
-  "item.yungscavebiomes.ice_cube_spawn_egg": "Ice Cube Spawn Egg",
+  "item.yungscavebiomes.ice_cube_spawn_egg": "Frost Cube Spawn Egg",
   "item.yungscavebiomes.sand_snapper_spawn_egg": "Sand Snapper Spawn Egg",
   "item.yungscavebiomes.prickly_peach": "Prickly Peach",
   "item.yungscavebiomes.hourglass_pottery_sherd": "Hourglass Pottery Sherd",
